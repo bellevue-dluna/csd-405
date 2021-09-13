@@ -142,6 +142,9 @@ public class Fan
         System.out.println("\n----Your fan information: " + userFan);
 
         input.close(); // closes out the scanner
+    
+        Number numRef = new Integer(0);
+        Double d = (Double)numRef;
 
     }
 }

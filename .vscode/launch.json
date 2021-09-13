@@ -5,6 +5,27 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch Fan",
+            "request": "launch",
+            "mainClass": "Fan",
+            "projectName": "csd-405_c26f9d4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch States",
+            "request": "launch",
+            "mainClass": "States",
+            "projectName": "csd-405_c26f9d4d"
+        },
+        {
+            "type": "java",
+            "name": "Launch DenaeLunaInteger",
+            "request": "launch",
+            "mainClass": "DenaeLunaInteger",
+            "projectName": "csd-405_c26f9d4d"
+        },
+        {
             "name": "Java",
             "type": "java",
             "request": "launch",
